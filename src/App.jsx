@@ -62,7 +62,7 @@ function App() {
             <div className="w-full md:w-1/2 text-center md:text-left mt-8 md:mt-0 md:pl-10">
               <h2 className="text-black text-4xl md:text-6xl font-bold">Привет, меня зовут Айдария!</h2>
               <p className="text-black text-lg mt-4">Люблю танцевать и позировать на камеру</p>
-              <a href="#contact" className="mt-8 inline-block bg-white text-gray-800 px-6 py-3 font-semibold rounded-full shadow-lg hover:bg-gray-100">
+              <a href="#contact" className="mt-8 mb-8 inline-block bg-white text-gray-800 px-6 py-3 font-semibold rounded-full shadow-lg hover:bg-gray-100">
                 Свяжись со мной
               </a>
             </div>
