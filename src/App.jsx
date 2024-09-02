@@ -130,7 +130,7 @@ function App() {
               <a href="https://tiktok.com/@ai_dariya21" target="_blank" rel="noopener noreferrer">
                 <FaTiktok className="text-black w-8 h-8 hover:text-gray-700" />
               </a>
-              <a href="https://wa.me/87058084143" target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/+77058084143" target="_blank" rel="noopener noreferrer">
                 <FaWhatsapp className="text-green-500 w-8 h-8 hover:text-green-600" />
               </a>
             </div>
