@@ -54,7 +54,7 @@ function App() {
         </header>
 
         {/* Rest of the page */}
-        <section className="bg-cover bg-center h-screen flex items-center justify-center">
+        <section className="bg-cover bg-center min-h-screen flex items-center justify-center">
           <div className="container mx-auto flex flex-col md:flex-row items-center">
             <div className="w-full relative flex md:w-1/2 text-center md:text-left mt-8 md:mt-0 md:pl-10">
               <img src={gallery1} alt="Hero section image" className="max-h-[600px] mt-16 mx-auto" />
